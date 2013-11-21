@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<document>
+    <body>
+        <release version="1.3" date="2007-03-27" description="Correction">
+            <action dev="gonnot,galabert" type="fix">
+                Chemin windows non traité lors de la copie de fichier filtré (lorsqu'il est spécifié par des
+                @).
+            </action>
+        </release>
+        <release version="1.2" date="2007-03-19" description="Version initiale">
+            <action dev="gonnot,gaudefr" type="add">
+                Ajout de la documentation.
+            </action>
+        </release>
+    </body>
+</document>
