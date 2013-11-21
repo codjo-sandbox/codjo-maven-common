@@ -101,9 +101,9 @@
     -->
 
     <scm>
-        <connection>scm:git:https://github.com/codjo/common.git</connection>
-        <developerConnection>scm:git:https://github.com/codjo/common.git</developerConnection>
-        <url>https://github.com/codjo/common</url>
+        <connection>scm:git:https://github.com/codjo/codjo-maven-common.git</connection>
+        <developerConnection>scm:git:https://github.com/codjo/codjo-maven-common.git</developerConnection>
+        <url>https://github.com/codjo/codjo-maven-common</url>
     </scm>
 
 </project>
