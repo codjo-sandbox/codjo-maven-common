@@ -13,7 +13,7 @@
     </parent>
     <groupId>net.codjo.maven</groupId>
     <artifactId>codjo-maven-common</artifactId>
-    <version>2.0-RC2-SNAPSHOT</version>
+    <version>2.0-RC2</version>
     <dependencies>
         <!--Plugins Maven-->
         <dependency>
