@@ -9,7 +9,7 @@
     <parent>
         <groupId>net.codjo.pom</groupId>
         <artifactId>codjo-pom-plugin</artifactId>
-        <version>3.0-RC2-SNAPSHOT</version>
+        <version>3.0-RC4</version>
     </parent>
     <groupId>net.codjo.maven</groupId>
     <artifactId>codjo-maven-common</artifactId>
